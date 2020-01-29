@@ -197,3 +197,7 @@ a:active, a:focus, a:hover {
   background-color: black;
   color:  #3282b8;
 }
+
+.btn-primary {
+  margin-bottom: 20px;
+}
