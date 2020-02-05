@@ -1,7 +1,7 @@
 
 
 var i = 0;
-var txt = "Hey there ! I am Pratham a Web Developer";
+var txt = "Hey there ! I am Pratham a Web Developer.";
 var speed = 100; /* The speed/duration of the effect in milliseconds */
 
 
