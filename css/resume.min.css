@@ -8,7 +8,7 @@
 }
 
 hr {
-  background-color: #fff;
+  background-color: #000;
 }
 
 body {
@@ -188,6 +188,10 @@ a:active, a:focus, a:hover {
 }
 
 /* Edited by me  */
+
+#cursor {
+  font-size: 2rem;
+}
 
 .container-fluid {
   background-image: linear-gradient(to right, rgb(99, 141, 145), rgba(255, 255, 255, 0.11));
