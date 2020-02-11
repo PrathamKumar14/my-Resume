@@ -189,6 +189,22 @@ a:active, a:focus, a:hover {
 
 /* Edited by me  */
 
+.small-screen-div {
+  text-align: center;
+  padding: 7% 15% 7%; /* top (right left) bottom*/
+}
+
+@media (min-width: 992px){
+  .small-screen-div {
+    display: none;
+  }
+}
+
+.small-screen-img {
+  border-radius: 100%;
+  border: 10px solid black;
+}
+
 #cursor {
   font-size: 2rem;
 }
