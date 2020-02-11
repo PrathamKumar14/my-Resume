@@ -213,6 +213,10 @@ a:active, a:focus, a:hover {
   background-image: linear-gradient(to right, rgb(99, 141, 145), rgba(255, 255, 255, 0.11));
 }
 
+.d-block {
+  border-radius: 50px;
+}
+
 .footer-color {
   background-image: linear-gradient(to right, rgb(99, 141, 145), rgba(255, 255, 255, 0.11));
   color:  #000;
